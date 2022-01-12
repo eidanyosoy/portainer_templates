@@ -17,8 +17,7 @@ This is a template focused on helping people spin up selfhosted services using P
 3. Add the url: `https://raw.githubusercontent.com/eidanyosoy/portainer_templates/master/Template/template.json` then go to app templates and hit refresh at the top.
 
 ### Information
-All templates are already configured to bind mount to various places on your drive. This branch is being worked on for deployment in conjunction with Dockserver. The following folders are all created in /portainer/
-
+All templates are already configured to bind mount to various places on your drive. This branch is being worked on for deployment in conjunction with Dockserver. The following folders are all created 
 * **Files** - General file storage.
   * **appdata** - Subfolder where application data (unrelated to served data) is stored.
     * **config** - Subfolder where configuration files for every container are stored.
